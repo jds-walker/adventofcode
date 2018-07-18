@@ -2,7 +2,7 @@
   "name": "adventofcode",
   "version": "1.0.0",
   "description": "Git Repository of my adventures completing advent of code",
-  "main": "./2015/2/Solution2.js",
+  "main": "./2015/3/3.js",
   "scripts": {
     "start": "nodemon"
   },
